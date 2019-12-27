@@ -1,1 +1,3 @@
-# webdriverio-tests
+# webdriverio
+
+Public mail service (webdriverio + chai + mocha)
